@@ -1,5 +1,6 @@
 # you can write to stdout for debugging purposes, e.g.
 # print("this is a debug message")
+# test
 
 def solution(N):
     # Implement your solution here
